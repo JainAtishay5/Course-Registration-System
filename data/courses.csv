@@ -1,0 +1,10 @@
+courseCode,title,credits,capacity,enrolledCount,prerequisiteCode
+CS101,Introduction to Computer Science,4,3,3,NONE
+CS201,Data Structures and Algorithms,4,30,1,CS101
+CS202,Database Systems,3,25,0,CS101
+CS301,Operating Systems,4,20,0,CS201
+CS401,Advanced Artificial Intelligence,3,15,0,CS201
+MATH101,Calculus I,4,40,0,NONE
+PHYS101,General Physics,4,30,0,NONE
+HIST101,World History,3,30,0,NONE
+ENG101,Technical Communication,2,30,0,NONE

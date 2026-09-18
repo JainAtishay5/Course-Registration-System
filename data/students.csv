@@ -1,0 +1,4 @@
+id,name,email,maxCredits,completedCourses
+STU1001,Alex Johnson,alex.johnson@university.edu,16,CS101
+STU1002,Maria Garcia,maria.garcia@university.edu,18,CS101;MATH101
+STU1003,Liam Patel,liam.patel@university.edu,12,NONE
